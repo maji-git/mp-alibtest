@@ -7,5 +7,21 @@
     "cost": "MIT",
     "version": "1",
     "version_string": "alpha",
-    "icon_url": "https://raw.githubusercontent.com/maji-git/mp-alibtest/main/logo.svg"
+    "icon_url": "https://raw.githubusercontent.com/maji-git/mp-alibtest/main/logo.svg",
+    "description": "Blah Blah Blah Description",
+    "download_branch": "master",
+    "previews": [
+        {
+            "preview_id": "1",
+            "type": "video",
+            "link": "https://www.youtube.com/watch?v=…",
+            "thumbnail": "https://img.youtube.com/vi/…/default.jpg"
+        },
+        {
+            "preview_id": "2",
+            "type": "image",
+            "link": "https://….png",
+            "thumbnail": "https://….png"
+        }
+    ]
 }
